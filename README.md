@@ -1,5 +1,5 @@
 # Data-assignment-week2
-VBA code was leveraged from incase activities
+VBA code was leveraged from inclass activities
 
 To troubleshoot and debug, I used the following resources
 - ChatGPT
